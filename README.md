@@ -9,4 +9,4 @@ tkinter: Python offers multiple options for developing GUI (Graphical User Inter
 
 pyttsx3: pyttsx3 is a text-to-speech conversion library in Python. It is a very easy to use tool which converts the entered text into speech. The pyttsx3 module supports two voices first is female and the second is male which is provided by “sapi5” for windows.
 
-pygame: pygame is a cross-platform set of Python modules which is used to create video games. It consists of computer graphics and sound libraries designed to be used with the Python programming language. Pygame was officially written by Pete Shinners to replace PySDL.
+pygame: pygame is a cross-platform set of Python modules which is used to create video games. It consists of computer graphics and sound libraries designed to be used with the Python programming language.
